@@ -53,6 +53,7 @@ const Create = () => {
         >
           <option value="mario">mario</option>
           <option value="yoshi">yoshi</option>
+          <option value="dialorsd">dialorsd</option>
         </select>
         <button>Add Blog</button>
       </form>
